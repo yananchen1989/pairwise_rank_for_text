@@ -1,0 +1,30 @@
+{
+    "recordFlag": "[dat]",
+    "column": [
+        {
+            "columnName": "query",
+            "type": "int64",
+            "separator": ","
+        },
+        {
+            "columnName": "title_pos",
+            "type": "int64",
+            "separator": ","
+        },
+        {
+            "columnName": "title_neg",
+            "type": "int64",
+            "separator": ","
+        },
+        {
+            "columnName": "label_pos",
+            "type": "int64",
+            "separator": ","
+        },
+        {
+            "columnName": "label_neg",
+            "type": "int64",
+            "separator": ","
+        }
+    ]
+}
