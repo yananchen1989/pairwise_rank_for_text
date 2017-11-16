@@ -1,0 +1,19 @@
+{
+    "fixed_len_feature": {
+        "query": {
+            "column_name": "query",
+            "default_value": 0,
+            "max_len": 20
+        },
+        "title_pos": {
+            "column_name": "title_pos",
+            "default_value": 0,
+            "max_len": 20
+        },
+        "title_neg": {
+            "column_name": "title_neg",
+            "default_value": 0,
+            "max_len": 20
+        }    
+    }
+}
