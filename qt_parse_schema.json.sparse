@@ -1,0 +1,16 @@
+{
+    "var_len_feature": {
+        "query": {
+            "column_name": "query",
+            "max_len": 20
+        },
+        "title_pos": {
+            "column_name": "title_pos",
+            "max_len": 20
+        },
+        "title_neg": {
+            "column_name": "title_neg",
+            "max_len": 20
+        }
+    }
+}
